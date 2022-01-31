@@ -28,6 +28,9 @@ Pythonで署名付きURLを使って、CloudFrontから限定公開する[記事
 
 SNSでPub/Sub?
 
+### ロギング
+CloudWatchLogs
+
 ### 決済
 Stripe他
 
