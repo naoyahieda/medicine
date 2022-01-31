@@ -1,4 +1,4 @@
-# 全体像
+# 全体像設計
 
 ## フロント(肝)
 「React, Nextjs, Tailwindcss on Vercel」 or Vue or Svelte
