@@ -21,6 +21,8 @@ ElastiCache(Redis or Memcached)
 ### ストレージ
 S3 + CloudFront
 
+Pythonで署名付きURLを使って、CloudFrontから限定公開する[記事](https://dev.classmethod.jp/articles/cloudfront-signed-url-and-cookie-using-python/)
+
 ### メッセージング
 バックエンド → SQS → Lambda
 
