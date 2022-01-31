@@ -31,6 +31,8 @@ SNSでPub/Sub?
 ### ロギング
 CloudWatchLogs
 
+ログ監視:Logsのサブスクリプション機能→Lambda
+
 ### 決済
 Stripe他
 
